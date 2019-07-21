@@ -1,5 +1,5 @@
 ===================
-Facebook Python SDK
+[Facebook](https://aapks.com/apk/facebook/) Python SDK
 ===================
 
 This client library is designed to support the `Facebook Graph API`_ and the
